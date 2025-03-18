@@ -58,6 +58,6 @@ int main () {
 
 	std::ofstream output("output.txt");
 	store(v,output);
-
+	// samom sam dodao prazan komentar u mainu 
 	return 0;
 }
